@@ -87,7 +87,7 @@ VALUES (2023,20231221,UUID(),'Rush 2112 Day');
 
 ## GitPod ##
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/datastaxdevs/workshop-ecommerce-app)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/datastaxdevs/workshop-nerd-holidays)
 
 ## Environment file
 
